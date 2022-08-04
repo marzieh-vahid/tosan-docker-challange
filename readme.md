@@ -1,6 +1,14 @@
 ## What is it?
 This  code is an Spring Boot web application 
- 
+
+
+Tested with
+
+* Docker 20.10.12
+* Java 11
+* Spring Boot 2.7.2
+* Maven
+
 
 ## How to run this?
 ```bash
