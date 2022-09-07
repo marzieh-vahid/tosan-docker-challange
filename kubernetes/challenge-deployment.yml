@@ -2,7 +2,6 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: docker-challenge-deployment
-  namespace: test
 spec:
   selector:
     matchLabels:
